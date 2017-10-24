@@ -56,6 +56,12 @@
             android:text="Registrar usuario"
             android:theme="@style/RaisedButtonDark"
             android:onClick="onClickCreateUser"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Consultar usuario"
+            android:theme="@style/RaisedButtonDark"
+            android:onClick="onClickSearchUser"/>
 
     </LinearLayout>
 
